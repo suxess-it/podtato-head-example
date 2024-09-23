@@ -8,6 +8,7 @@ ingress:
     dns.gardener.cloud/dnsnames: team-a-antonius-test.lab.suxessit.k8s.cloud.uibk.ac.at
     dns.gardener.cloud/ttl: "180"
     # another comment from upstream should go to downstream
+    # and this one
   hosts:
     - host: team-a-antonius-test.lab.suxessit.k8s.cloud.uibk.ac.at
       paths:
