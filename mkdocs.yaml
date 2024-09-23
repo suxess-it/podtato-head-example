@@ -1,0 +1,8 @@
+site_name: "antonius"
+site_description: "Documentation for antonius"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
