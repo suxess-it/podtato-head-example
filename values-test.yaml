@@ -1,4 +1,5 @@
 # applies to podtato-head-entry deployment only
+# this line is just a test for upstream/downstream mgmt tests
 ingress:
   className: nginx
   annotations:
