@@ -5,6 +5,7 @@ ingress:
     dns.gardener.cloud/class: garden
     dns.gardener.cloud/dnsnames: team-a-antonius-qa.lab.suxessit.k8s.cloud.uibk.ac.at
     dns.gardener.cloud/ttl: "180"
+    # another comment from upstream should go to downstream
   hosts:
     - host: team-a-antonius-qa.lab.suxessit.k8s.cloud.uibk.ac.at
       paths:
