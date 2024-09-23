@@ -1,6 +1,6 @@
 # Deliver with Helm
 
- Here's how to deliver podtato-head using [Helm](https://helm.sh) as an cloud-native example..
+ Here's how to deliver podtato-head using [Helm](https://helm.sh) as an cloud-native example.
 
 ## Prerequisites
 
